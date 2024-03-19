@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "144227294206",
+    "project_id": "letsdonate-9d525",
+    "storage_bucket": "letsdonate-9d525.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144227294206:android:fd91cedc96687a0c943eaf",
+        "android_client_info": {
+          "package_name": "com.example.lets_donate_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144227294206-09l696ncolam86oh47ip96cv7rd03v8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEDgyDg4nl6ctkz1j4YiKpTk8Vcik2jns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144227294206-09l696ncolam86oh47ip96cv7rd03v8m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "144227294206-8a6e99jgkoll0elm0mslv3f7ue1r61q3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.samaritiantechnologies.idonate"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144227294206:android:4699897db72746ef943eaf",
+        "android_client_info": {
+          "package_name": "com.samaritantechnologies.LetsDonate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144227294206-ji0oeded1e6fj4577d11o9nntq6c9qd3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samaritantechnologies.LetsDonate",
+            "certificate_hash": "cd27fc90795e7ba59b2874fd2aa852c409dc6ac3"
+          }
+        },
+        {
+          "client_id": "144227294206-tdo75aq0t8ml85vp7g5ecg2d8jt38olg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samaritantechnologies.LetsDonate",
+            "certificate_hash": "11240cf7f6d2b4f53e7dc200f8891dbb6edf7da4"
+          }
+        },
+        {
+          "client_id": "144227294206-09l696ncolam86oh47ip96cv7rd03v8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEDgyDg4nl6ctkz1j4YiKpTk8Vcik2jns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144227294206-09l696ncolam86oh47ip96cv7rd03v8m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "144227294206-8a6e99jgkoll0elm0mslv3f7ue1r61q3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.samaritiantechnologies.idonate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
